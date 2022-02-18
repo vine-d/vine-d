@@ -12,4 +12,4 @@ MBA in IT Administration. Graduated in Digital Systems Engineer.
 Working in the area of information technology since 2005.
 
 ### Connect with me
-[<img align=”left” alt=”LinkedIn” width=”80" src=”https://github.com/vine-d/vine-d/blob/master/linkedIN.logo" />](https://www.linkedin.com/in/viniciusdesouzadutra/)
+[<img align=”left” alt=”LinkedIn” width=”80" src=”https://github.com/vine-d/vine-d/blob/master/linkedIN.logo" />](https://www.linkedin.com/in/viniciusdesouzadutra/)]
