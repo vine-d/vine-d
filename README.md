@@ -1,15 +1,17 @@
 
 ## Introduction
-- Certified AWS cloud practitioner;
-- I’m currently working as sr DevOps engineer;
-- Sec specialist / Pentester;
-- Trying to 🏋️ Workout everyday!
-- Always planning for next outside adventure: 🏞️trekking, 🧗‍rock climbing, 🚵‍mountain biking, ...
+- AWS Certified Cloud Practitioner
+- Senior DevOps Engineer
+- Security Specialist / Pentester
+- Committed to staying fit with daily workouts 🏋️
+- Always planning the next adventure: trekking 🏞️, rock climbing 🧗‍, mountain biking 🚵‍…
 - Keep learning!
 
-Experienced Ops Engineer, AWS certified, always looking to learn and contribute as part of a great team.
+More than 20 years of pro experience, DevOps Engineer, AWS certified, Problem solver.
 MBA in IT Administration. Graduated in Digital Systems Engineer.
-Working in the area of information technology since 2005.
+
+With over 20 years of professional experience, I am an accomplished DevOps Engineer and problem solver.
+I hold an MBA in IT Administration and a degree in Digital Systems Engineering, and I’m dedicated to continuous learning and professional growth.
 
 ### Connect with me
 [LinkedIN](https://www.linkedin.com/in/viniciusdesouzadutra/)
