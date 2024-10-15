@@ -10,7 +10,7 @@
 More than 20 years of pro experience, DevOps Engineer, AWS certified, Problem solver.
 MBA in IT Administration. Graduated in Digital Systems Engineer.
 
-With over 20 years of professional experience, I am an accomplished DevOps Engineer and problem solver.
+I am an accomplished DevOps Engineer and problem solver.
 I hold an MBA in IT Administration and a degree in Digital Systems Engineering, and I’m dedicated to continuous learning and professional growth.
 
 ### Connect with me
